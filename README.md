@@ -1,4 +1,4 @@
-### Hi there 👋
+![My stats](https://github-readme-stats.vercel.app/api?username=lucaci32u4&show_icons=true&theme=vue&include_all_commits=true&count_private=true)
 
 <!--
 **lucaci32u4/lucaci32u4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
